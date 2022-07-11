@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="80" height="80" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="map2" tilewidth="32" tileheight="32">
+  <image source="E:/study/游戏大作业/Game/ZYGame/res/map2.png" width="512" height="480"/>
+ </tileset>
+ <layer name="floor" width="80" height="80">
+  <data encoding="base64" compression="zlib">
+   eJztwzENAAAMBKGb37/geugMCaumqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqvh40t/oB
+  </data>
+ </layer>
+ <layer name="coll" width="80" height="80">
+  <data encoding="base64" compression="zlib">
+   eJzt2zEOxCAMAMH0POL+/8ur0p0AZQ1H7F3JHdVEShAo7bqu5qCxZ+nH0o+lH0s/ln4s/Vj6sbL7fQZDy+53p19Mb/Bb9awj0++M9GNVe/9Fpx9LP5Z+LP1Y+vUb7R3066ffs2b3rvr9Tr+Y9GPptzb9WPqxTvJ743lXVr/V90Z31fyiO8kvsl3n31X8VlXBb2XZ/VaX2W9H+rGy+u1KP5Z+LP1Y+rH0Y+nHivTbdWZ0Uvqx9GOtfv/px9KPpV++Tv//4/Rm/WbW6Dde10u/8bpe1f1mppd++v0z/Vj6sfRj6cfSj6UfSz+Wfiz9WPqx9GPpx4ryy3q/MUo/VqRfRcNov2qOfj9Y+rH0Y+nH0o/VHDxfuWQjQg==
+  </data>
+ </layer>
+</map>

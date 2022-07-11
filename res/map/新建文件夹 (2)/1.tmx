@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="80" height="80" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="RPG MAKER DS提取地图素材-城堡外 TileC(T_爱给网_aigei_com" tilewidth="32" tileheight="32">
+  <image source="RPG MAKER DS提取地图素材-城堡外 TileC(T_爱给网_aigei_com.png" width="512" height="512"/>
+ </tileset>
+ <layer name="块层 1" width="80" height="80">
+  <data encoding="base64" compression="zlib">
+   eJzt08FtAzEQQ1EDKWpLTJMuJsjNECRZUpz8T2cOhHZvgwfy43a7fVSOc69UKpVK5U3yKbghOd9+lzi0z/3JHeX3c1PaKMVvdA9tlOL3zNYY2mXHzuhI29R+f9+zvZc2S/FL6CDtsrJh2ijJb2Rp3K7dr/r3+i7SXna/q3ntHaS9VvxooyS/mavRlHbZsTOGtplt2G5n9JvdRFsl+PUsaaNUv17vbJ60za6fLbTNaLO9b2Nor+rf3/kZLWmb0XZn3TM50mbpG6Zdar/slunQTukbpk123WyOtE1y90x+s1tmt5ffmuPVeQ2hvU72W35nnaStUvx6d9FOSX4rdhZT2mbX0OJm92tvo51S/VY6R/rSTrv7Lb+93fb8THumvVb8ZneX354r7ZXiZ+tZmt/Khg2hXU76aNoy7ZLcPatf27OeocWVtqr+/W9D2mW23/J7venjawjtkrxdo9/opt7dtJ3RL62DtMuJn8mTdlndcHsv7Wb2S+me3c/YtyS/0X5NXaRdTjZsCu3ybLNmO6PfzLK9m7az+l3N+2hl6yVtdWJqCu0y2mv5vXfvEvyu5nv0X35rlsbQLumWtMU7+X0Bd3kvMg==
+  </data>
+ </layer>
+ <layer name="块层 2" width="80" height="80">
+  <data encoding="base64" compression="zlib">
+   eJzt3UsuBFEcRvHrtQCvBXgtwGsBNFttA7EIDAyMCAsg8diBqb/ZTdEdXadK7i3nJF8MWlTyS4nJLTVKKY0K22XsqoJdx25Ted3F7ivYeyrT7yn2XPA+Utl+49jZhI2zrz9t2mdd7S3V5TfN8zefd70vv8dUtl8Jm3Qv/ze/pkOb3/Ga7r/S04+lH0s/ln4s/Vj6sfRj6cfSj6UfSz+Wfqyh+J139HMuZvz+m6Rf3qx+fd5/c7H52EJji7Gljq81RL/l2EpstbG12HrH1xqi30ZsM7bV2HZsp+Nr6cfSj6UfSz+Wfqwh+u3G9mL7jR3EDju+1hD9jmLH6fuZtJPYacfXGqLfX6YfSz+Wfiz9WPqx9GPpx9KPpR9LP5Z+LP1Y+rH0Y+nH0o+lH0s/ln51ph9LP5Z+LP1Y+rH0Y+nH0o+lH0s/ln4s/Vj6sdr65c9m9fE8Vi219cufzerjeaxaauuXn63v4zx9LbX1y8/W93Gevpba+uVn6/s4T19L/v1l6cfSj6UfSz+Wfiz9WDX5lfgugYdUj1+p7xLI/Zr/66aklfougZfYa+wTIX147A==
+  </data>
+ </layer>
+ <layer name="块层 3" width="80" height="80">
+  <data encoding="base64" compression="zlib">
+   eJzt2MEJgCAAQFH3n6URhFaLDh0qxdQOme9BJHX7YGohAAAAAAAA8CXLC9fMSm3i5a4fALsna8cxjiG9jsysZb9ybQgwKue3Phr00a+dOQj/kltn18zzmZX2JmtmrB8wuppzmu/fXW87/eoapjoCjMj/0j61rfQ8S3VYEu/0AgAAAAAAAAAA3rYBHMeKBg==
+  </data>
+ </layer>
+</map>

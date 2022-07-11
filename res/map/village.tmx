@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="60" height="60" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="village" tilewidth="32" tileheight="32">
+  <image source="123.png" width="256" height="1024"/>
+ </tileset>
+ <layer name="ground1" width="60" height="60" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMBKH7/qXXYyi4aqqqqqqqqqqqqqqqqqrqqwfthQ4R
+  </data>
+ </layer>
+ <layer name="ground2" width="60" height="60" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztm2EKgzAMhb3GfnqM7b6DHVP6QxBnta0vyUvMB8I2sO17TdKAbpqS5J+X9QJAoHVo+jILjLde1misAaWVybfCSAz23nOkl0W/Z9LDxCMScdtTk6TO3Sh9jgVstezOeti0tOBtzXdyja0Hk+ZpegvSetm8jLzHEudqxLO67H1EXZqM5E/U3DuKpXmKq1eT9C5JzomQI5YaULW6dm9Lr6H9jKNHr6f4ujqLEw4fLPpvizkZvPaCRY5+Kt8t9k1yzr1OKVjiXVPviOZaLWLxr8aZXnR9feLz8Oj6VlDviETgu/n8uzmWB0+06scIUnVZcl+ufPMQEygkekhkXPaO9d5ckjDFiIZeBCjPvOgtMMUJCnSPqfFOTO8cDPvGsAY0DD2LJ1r98uarVmxHzCFNvPkXNV8skf6Pz7z7HT33AsE3E9k=
+  </data>
+ </layer>
+ <layer name="obstacles" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztmrlvFDEUxl/akAqlApoAFdQItBCFFiEhDglxSIjAX0BJCTkINykgUHAVHIIOKgr+gHAUXAVHinAUEfd9Ez5rdiVj7LFnbM+8nd1P+mnXsx6PP72xPc87nUQ0o0XoAjOpddRNbb+c1Enm+zKPuPsVfduvoTtne22/vFSk36UKZUj1u4NaK747qbXiW/XxOwvM1jAnZ3tc4jtiOD4XzNMwP+d1uMc3tLLEt6wxHFJlxvckOAVOgzMFXdMlvmnyeb49B86DC+CiS2cDyDe+4twBDXnXi9gK6XeQ7H4XelwrhEL6PUBmv3vBPkr8luk59v28CCzz6WBg+fq1Pf/0evUuvHz9hn7+uaaUr+fvmlbN8Hz1BrwF7wK0xc3vOLgBboJb4Db4Ar6CbwHa5+b3DrgL7oH74AH4A6bFjx3/119RP7wS9Di0z83vQ/AIPAZPwISl/hqwFqwDqyjxvjqlvsnvkPTdlKuFlliXJ8FT8Aw8By8s52wEm8BmsB6Mgg0p9TnFV/idApfAS3AVvLac0w+2ge1gCzgBtqbU5+RX6Dv4AX6CX+C3pb48foXOWuqb/JaRq+WRPH5dZPJbRq6WR/L4dRG3+zmr5PHromb3m1VV9Ju2lsb0y3G/rwrxrSmfR8ExMAaOK3Vj+/WNbVp+WDN8T1tLmzm+alxrddLWUq5+d4HdpM8PxXw0DPZQ4k8uj9SPyWVZXP029vd0+eFBcAgcBkccyrK4+m1Ilx+q85GtLIu7X11+qM5HtrIs7n5FfniF/s0P1fnIVpYVwm9jrMWQLj9U5ydbWRb3+OpU1HwVe2/YVVWer3Qqar7Srf1l/D9U1HylW/u5/T9kUxa/WfeGOcrF72KwhLLvDXOUi98+sJyStf8yJWv/K7LvDXNUlvi+Bx/AR/AJfI7btSjKEt/GuwgLIvcppppx/fVR22+11fZbbQm/pneKqoh4T+ovBBwBhQ==
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="60" height="60" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="village" tilewidth="32" tileheight="32">
+  <image source="123.png" width="256" height="1024"/>
+ </tileset>
+ <layer name="块层 4" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt1jsKwkAURuGg7sgVqKBuSwutfDQ+1qI2vtZgaek2/O3CEDMI95owOR+cIglcBiYMk2UAAOAXLdUuqGM0vxuEtLC/aQv3lz3+zvss9cCeAgAAACgzU/OqF5HTU301cJi9UEu1UmvDuQ+jOUM1UmOjeRu1VTu1N5r58TScVTcHdVSn3LtXRWvxdlYXdVU3da92OQAAwFDd7vievO748FF0305VU+7bEzUt+R6eR7FnD//678LzKPbsoSn/HZorduYAAAAgTW+Jqi4j
+  </data>
+ </layer>
+</map>
